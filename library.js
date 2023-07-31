@@ -1,4 +1,7 @@
-function name() {
+export function name() {
     console.log("hello");
 }
-export default name
+
+export function alamat() {
+    console.log("indonesia");
+}
